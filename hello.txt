@@ -3,4 +3,6 @@ I am learning git
 I am mastering gitFeature work
 Main work
 Feature 2 workFeature 3 work
+<<<<<<< HEAD
 Main work after rebase-demo started
+Rebase work 1
