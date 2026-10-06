@@ -4,3 +4,4 @@ I am mastering gitFeature work
 Main work
 Feature 2 workFeature 3 work
 Main work after rebase-demo started
+Remote changed
