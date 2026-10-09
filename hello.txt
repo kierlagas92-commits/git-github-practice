@@ -7,3 +7,4 @@ Main work after rebase-demo started
 Remote changed
 Changed directly on Github
 Local change before remote update
+Remote change before local push
